@@ -1,0 +1,33 @@
+.container-fluid{
+    background-image: linear-gradient(#000000, #434343);
+   
+}
+nav .navbar-nav li a{
+    color: white !important;
+    font-size: 20px;
+    }
+    nav .navbar-brand{
+        color: white
+    }
+   
+    .masthead{
+        
+       height: 100vh;
+       width: auto;
+       margin: 0%;
+       padding: 0%;
+    }
+    .container-fluid1{
+        padding-left: 0;
+    padding-right: 0;
+    height: 100vh; 
+    }
+   .container-fluid1 .text-primary{
+        --bs-text-opacity: 1;
+        color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+        color: #237A57;
+    }
+    #Toggle{
+        background-color: aliceblue;
+    }
+   
